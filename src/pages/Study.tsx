@@ -3,10 +3,8 @@ import { RotateCcw, Check, X, Lightbulb, MessageSquare, ChevronRight } from "luc
 import { useNavigate } from "react-router-dom";
 import { Button } from "../components/ui/button";
 import { Card } from "../components/ui/card";
-import { Progress } from "../components/ui/progress";
 import { Textarea } from "../components/ui/textarea";
 import { Label } from "../components/ui/label";
-import NeuronProgress from "../components//NeuronProgress";
 
 interface StudyCard {
   id: string;

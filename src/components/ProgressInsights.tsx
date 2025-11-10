@@ -1,4 +1,4 @@
-import { TrendingUp, Brain, Clock, Target } from "lucide-react";
+import { TrendingUp } from "lucide-react";
 import { Card } from "./ui/card";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "./ui/tabs";
 

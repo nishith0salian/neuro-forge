@@ -51,7 +51,7 @@ const MasteryTree = ({ level }: MasteryTreeProps) => {
 
         {/* Level Tree */}
         <div className="space-y-3">
-          {levels.map((lvl, index) => {
+          {levels.map((lvl) => {
             const isUnlocked = lvl.id <= level;
             const isCurrent = lvl.id === level;
             

@@ -1,4 +1,4 @@
-import { Target, Check, Circle } from "lucide-react";
+import { Target, Check } from "lucide-react";
 import { Card } from "./ui/card";
 import { Checkbox } from "./ui/checkbox";
 import { useState } from "react";
